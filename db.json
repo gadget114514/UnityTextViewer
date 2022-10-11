@@ -1,11 +1,11 @@
 {
   "posts":[
-  {"id":1,"width":640,"tbHeight":480,
+  {"id":1,"width":640,"height":480,"tbWidth":320,"tbHeight":240,
    "url":"https://placehold.jp/640x480.png",
    "tbUrl":"https://placehold.jp/320x240.png"},
   
-    {"id":2, "width":150,"tbHeight":150,"url":"https://placehold.jp/150x150.png","tbUrl":"https://placehold.jp/150x150.png"},
-      {"id":3, "width":240,"tbHeight":280,"url":"https://placehold.jp/240x280.png","tbUrl":"https://placehold.jp/24x28.png"}
+    {"id":2, "width":150,"height":150,"tbWidth":150,"tbHeight":150,"url":"https://placehold.jp/150x150.png","tbUrl":"https://placehold.jp/150x150.png"},
+      {"id":3, "width":240,"height":280,"tbWidth":24,"tbHeight":28,"url":"https://placehold.jp/240x280.png","tbUrl":"https://placehold.jp/24x28.png"}
   
   ],
   "profile": { "name": "aaa"}
